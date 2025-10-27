@@ -11,31 +11,31 @@
     background-attachment: fixed;
 }
 .sec3{
-    background-color: #4b3083;
+    background-color: #96a4b2;
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sec4{
-    background: url(PokBlanco.jpg);
+    background-color: #3b4782;
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sec5{
-    background-color: #e29460;
+    background-color: #322d30;
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sec6{
-    background-color: #e29460;
+    background-color: #f9fafa;
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sec7{
-    background-color: #e29460;
+    background-color: #d04942;
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
@@ -77,8 +77,7 @@
 .sec1, .sec2, .sec3, .sec4, .sec5, .sec6, .sec7, .sec8, .sec9, .sec10 {
     height: 100vh; 
 }
-   .titulo-gen {
-      background-color: #4b3083; /* Morado */
+   .titulo-gen { 
       color: white;
       font-weight: 700;
       font-size: 2rem;
@@ -89,7 +88,7 @@
     }
 
     .card-gen {
-      background-color: #f7e86d; /* Amarillo claro */
+ 
       border-radius: 20px;
       padding: 25px;
       box-shadow: 0 3px 8px rgba(0,0,0,0.2);
